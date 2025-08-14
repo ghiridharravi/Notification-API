@@ -11,8 +11,11 @@
 }
 
 ******clicks parameters******
+
 ******Do this after login with bearer token authentication******
+
 ******event_type can be anything like click_event, search_event, purchase_event ******
+
 ******click_event and search_event does not send any notification to the user******
 {
     "user": 1,
